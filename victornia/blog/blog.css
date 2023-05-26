@@ -2,7 +2,7 @@
 
 .blog-header {
   line-height: 1;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e70e0e;
 }
 
 .blog-header-logo {
@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .blog-post-meta {
   margin-bottom: 1.25rem;
-  color: #555252;
+  color: #ea0101e8;
 }
 
 /*
@@ -96,10 +96,10 @@ h1, h2, h3, h4, h5, h6 {
  */
 .blog-footer {
   padding: 2.5rem 0;
-  color: #140e0e;
+  color: #fce42c;
   text-align: center;
-  background-color: #bd0b0b;
-  border-top: .05rem solid #e5e5e5;
+  background-color: hwb(0 55% 44% / 0.765);
+  border-top: .05rem solid #a8a5a2;
 }
 .blog-footer p:last-child {
   margin-bottom: 0;
